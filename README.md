@@ -1,6 +1,6 @@
-# calculator
+# A Calculator Web App
+for doing basic calculation
 
-Odin Project's calculator challenge (https://www.theodinproject.com/courses/web-development-101/lessons/calculator)
 
 ## Images
 
